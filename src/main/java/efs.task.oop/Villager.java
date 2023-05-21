@@ -40,3 +40,4 @@ public class Villager implements Fighter {
         health -= damage;
     }
 }
+

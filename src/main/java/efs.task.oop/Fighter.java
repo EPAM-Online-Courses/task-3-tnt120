@@ -5,3 +5,4 @@ public interface Fighter {
 
     void takeHit(int damage);
 }
+

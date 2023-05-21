@@ -41,3 +41,4 @@ public class ExtraordinaryVillager extends Villager {
         this.setHealth(damage);
     }
 }
+

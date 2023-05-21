@@ -21,3 +21,4 @@ public abstract class Monster implements Fighter {
         return damage;
     }
 }
+
